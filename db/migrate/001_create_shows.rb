@@ -8,6 +8,5 @@ class CreateShows < ActiveRecord::Migration[5.2]
     end
   end
   
-  def highest_rating
-  end
+
 end
